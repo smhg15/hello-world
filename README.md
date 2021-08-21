@@ -1,2 +1,2 @@
 # hello-world
-my first repository on this web (i'm follow order from de GitHub Guide)
+my first repository on this web (i'm following order from de GitHub Guide)
